@@ -1,4 +1,3 @@
-JobFinderClient
 JobFinderClient is a Java-based desktop application that allows users to search and apply for job opportunities through a simple and interactive GUI. The client is built using JavaFX and communicates with a remote server over TCP/IP sockets, ensuring efficient data exchange and real-time responses.
 
 Features
